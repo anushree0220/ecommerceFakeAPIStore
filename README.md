@@ -28,13 +28,9 @@ You can see a live demo of this project [here](https://ecommerce-fake-api-store-
 - **Fake Store API**: A free API for testing and prototyping e-commerce websites
 - **Context API**: A React API for managing global state in an application.
 
-## Screenshots
 
-Below are some screenshots of the website.
 
-![Home Page](/src/img/home-page.png)
 
-![Cart/Sidebar](/src/img/cart.png)
 
 ## Installation and Setup
 
